@@ -1,0 +1,13 @@
+.card img{
+    position: relative;
+}
+
+.cardDescription{
+    position: absolute;
+    padding-left: 10%;
+    top: 82%;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    
+}
