@@ -5,7 +5,7 @@ import logo from '../../Images/logo.png';
 const MenuBar = () => {
     return (
         <div className='container'>
-            <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-transparent">
+            <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-transparent">
                 <img src={logo} alt=""/>
                 
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
