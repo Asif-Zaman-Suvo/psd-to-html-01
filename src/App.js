@@ -13,6 +13,7 @@ import Departments from "./Components/Departments/Departments";
 import Information from "./Components/Information/Information";
 import Courses from "./Components/Courses/Courses";
 import Footer from "./Components/Footer/Footer";
+import SmallFooter from "./Components/SmallFooter/SmallFooter";
 
 function App() {
   return (
@@ -27,6 +28,7 @@ function App() {
           <Information></Information>
           <Courses></Courses>
           <Footer></Footer>
+          <SmallFooter></SmallFooter>
 
         </Route>
 

@@ -1,4 +1,24 @@
 .footer{
     background-color: #252C3A;
-    height: 45vh;
+    height: 55vh;
+}
+
+.icons{
+    color: #4A4A4A;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.icons:hover{
+    color: #0089FD;
+}
+
+.hrline{
+    background: #4A4A4A;
+}
+
+.footerButton{
+    border: none;
+    background: #FFC178;
+    color: white;
 }
