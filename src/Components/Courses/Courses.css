@@ -1,0 +1,6 @@
+.course-bg{
+    background-image: url('../../Images/rightBG.png');
+    background-repeat: no-repeat;
+    height: 130vh; 
+    background-position-x: right;
+}

@@ -24,22 +24,28 @@ const Information = () => {
 
                     <div className="row pt-5 pl-5">
                         <div className=" col-md-3">
-                            <h3 style={{color: '#FFBA00'}}>4000</h3>
-                            <h5  style={{color: '#FFBA00'}}>Students</h5>
+                            <h3 style={{ color: '#FFBA00' }}>4000</h3>
+                            <h5 style={{ color: '#FFBA00' }}>Students</h5>
                         </div>
                         <div className="col-md-3">
-                            <h3  style={{color: '#FF6174'}}>260</h3>
-                            <h5  style={{color: '#FF6174'}}>Courses</h5>
+                            <h3 style={{ color: '#FF6174' }}>260</h3>
+                            <h5 style={{ color: '#FF6174' }}>Courses</h5>
                         </div>
                         <div className="col-md-3">
-                            <h3  style={{color: '#43CB83'}}>5679</h3>
-                            <h5  style={{color: '#43CB83'}}>Hours Video</h5>
+                            <h3 style={{ color: '#43CB83' }}>5679</h3>
+                            <h5 style={{ color: '#43CB83' }}>Hours Video</h5>
                         </div>
 
 
                     </div>
                 </div>
+
+
             </div>
+
+            <div>
+                <h1 className='University pt-5'>Around The University</h1>
+                </div>
 
         </div>
     );

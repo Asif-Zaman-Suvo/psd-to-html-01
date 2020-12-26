@@ -3,5 +3,17 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height:90vh;
+    height:125vh;
+    
+    
+   
 }
+
+.University{
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    text-align: center;
+    
+}
+

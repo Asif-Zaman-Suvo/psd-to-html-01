@@ -11,6 +11,8 @@ import Header from "./Components/Header/Header";
 import OurDepartment from "./Components/OurDepartment/OurDepartment";
 import Departments from "./Components/Departments/Departments";
 import Information from "./Components/Information/Information";
+import Courses from "./Components/Courses/Courses";
+import Footer from "./Components/Footer/Footer";
 
 function App() {
   return (
@@ -23,6 +25,8 @@ function App() {
           <OurDepartment></OurDepartment>
           <Departments></Departments>
           <Information></Information>
+          <Courses></Courses>
+          <Footer></Footer>
 
         </Route>
 
